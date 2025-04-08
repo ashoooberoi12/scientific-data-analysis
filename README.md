@@ -32,4 +32,6 @@ The project is structured within a Jupyter Notebook environment and includes the
 3. Navigate to the cloned repository directory and open the Jupyter Notebook file (covid.ipynb)
 4. Execute code cells
 
+Enjoy
+
 
